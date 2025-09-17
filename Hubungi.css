@@ -1,0 +1,55 @@
+.nav-item {
+	opacity: 45%;
+}
+
+.navbar-brand {
+	margin-left: 10px ;
+}
+
+.dropdown-item:hover {
+	color: greenyellow;
+	background-color: aliceblue;
+}
+
+.carousel-item {
+	transition: 2s ease;
+}
+
+.row1 {
+	color: darkgreen;
+  
+
+}
+
+
+.ira.nav-link {
+	font-weight: bold;
+	font-size: large;
+	text-align: center;
+	color: green;
+	
+	
+}
+
+.ira.nav-link:hover {
+	color: greenyellow;
+
+}
+
+body
+{
+    background-color: rgba(88, 121, 91, 0.178);
+}
+ 
+.badan
+{
+    background-color: white;
+    padding: 13px 0;
+    margin-top: 30px;
+}
+ 
+ 
+.peding-30
+{
+    padding-top: 50px;
+}

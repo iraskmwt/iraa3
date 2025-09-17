@@ -1,0 +1,48 @@
+<html>
+<title>
+Belajar Html
+</title>
+<body>
+<p style="font-size:50px;text-align:center;color:red">BELAJAR HTML</p>
+	<p align="center">Ira Sukmawita<br>
+		2290343046<br>
+	<A href="HTTPS://www.google.com/" style='color:green'>
+	<img src="E:/BTS Wallpapers.jpg" width="400" height="200"><br></A>
+	</p>
+	<p style=text-align:center;>Teknologi rekayasa Multimedia<br>
+	</p>
+	
+<table style="width:100%;font-family:arial;font-size:18;border-color:navy;"border="2px">
+
+  <tr style="color:white;background-color:navy">
+    <th>No</th>
+    <th>Nama</th>
+    <th>Prodi</th>
+	<th>Item</th>
+  </tr>
+  
+  <tr style="text-align:center" height="200">
+    <td>1</td>
+    <td>Ira Sukmawita</td>
+    <td>Multimedia</td>
+	<td>
+	<A href="https://instagram.com/iraskmwta?igshid=NTdlMDg3MTY=">
+		<img src="E:/foto.jpg" width="300" height="160"></td>
+  </tr>
+
+  <tr style="text-align:center" height="200">
+    <td>2</td>
+    <td>Nur Wida Fitria</td>
+    <td>Multimedia</td>
+	<td>
+	<A href="http://polimedia.ac.id/" target="_blank">Polimedia.ac.id</A></td>
+  </tr>
+  
+  <tr style="text-align:center" height="200">
+  <td>3</td>
+  <td colspan="3">Merge</td>
+  </tr>
+  
+</table>
+</body>
+</html>

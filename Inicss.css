@@ -1,0 +1,91 @@
+<html>
+    <head>
+        <style>
+            div {
+                text-align: center;
+                border: 5px;
+                border-color: navy;
+            }
+            h2 {
+                font-size: 50px;
+                text-align: center;
+            }
+            p {
+                font-size: 20px;
+                text-align: center;
+                color: red;
+            }
+            table {
+                width: 100%;
+                font-family: Arial;
+                font-size: 18;
+                border: 2px;
+                border-collapse: collapse;
+            }
+            .trA {
+                background-color: navy;
+                color: white;
+                height: 100px;
+            }
+            tr {
+                color: navy;
+                text-align: center;
+                height: 200px;
+            }
+            .tabelA{
+                text-align: center;
+                height: 200px;
+                font-style: italic;
+                font-family: Arial, Helvetica, sans-serif;
+                background-color: aqua;
+            }
+        </style>
+        
+<title>
+Belajar Html
+</title>
+<body>
+<h2>BELAJAR HTML</h2>
+	<p>Ira Sukmawita<br>
+		2290343046<br>
+	<A href="HTTPS://www.google.com/" style='color:green'>
+	<img src="E:/BTS Wallpapers.jpg" width="400" height="200"><br></A>
+	</p>
+	<p>Teknologi rekayasa Multimedia<br>
+	</p>
+	
+<table>
+
+  <tr class="trA">
+    <th>No</th>
+    <th>Nama</th> 
+    <th>Prodi</th>
+	<th>Item</th>
+  </tr>
+  
+  <tr>
+    <td>1</td>
+    <td>Ira Sukmawita</td>
+    <td>Multimedia</td>
+	<td>
+	<A href="https://instagram.com/iraskmwta?igshid=NTdlMDg3MTY=">
+		<img src="E:/foto.jpg" width="300" height="160"></td>
+  </tr>
+
+  <tr>
+    <td>2</td>
+    <td>Nur Wida Fitria</td>
+    <td>Multimedia</td>
+	<td>
+	<A href="http://polimedia.ac.id/" target="_blank">Polimedia.ac.id</A></td>
+  </tr>
+
+  <tr class="tabelA">
+  <td>3</td>
+  <td colspan="3">Merge</td>
+  </tr>
+
+  
+</table>
+</body>
+<html>
